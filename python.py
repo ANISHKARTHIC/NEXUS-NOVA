@@ -1,2 +1,2 @@
-name="mani"
-print("hello ",name)
+for i in range(5):
+    print(i,end="  ")
